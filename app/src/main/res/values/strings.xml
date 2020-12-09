@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AbsencesStudents</string>
+    <string name="Name">Name</string>
+    <string name="date">Date</string>
+    <string name="kelas">Class</string>
+    <string name="subject">Subject</string>
+    <string name="information">Information</string>
+    <string name="add">Add</string>
+    <string name="fill">Thank you for filling in this absences students</string>
+    <string name="HY">HAI !</string>
+    <string name="welcome">Welcome</string>
+    <string name="ket">Everyone, don\'t forget to complete this student attendance</string>
+    <string name="absent">Absent</string>
+    <string name="who">Who\'s been absent?</string>
+</resources>
